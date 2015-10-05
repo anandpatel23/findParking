@@ -1,11 +1,4 @@
 #/usr/bin/env python
-#
-# Kurt Schmidt
-# 4/2015
-#
-# EDITOR:  tabstop=2, cols=80
-#
-
 import random
 import math
 
